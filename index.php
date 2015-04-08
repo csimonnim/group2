@@ -11,13 +11,13 @@
 	<!--container--><div id="container" style="border:2px solid black; background:url(images/footer.gif) repeat-x bottom">
  
 	 <div class="inner" style="border:0px solid red;">
-      <div style="float:left; width:1050px; height:800; border:1px solid blue;">
+      <div style="float:left; width:1050px; height:3000px; border:1px solid blue;">
 <div class="wrapper">
     <!--header--><div class="header" style="float:left; width:1050px; height:80px; border:0px solid green">
     	<?php include("includes/header.php");?>
      <!--end header--></div></br>
   
-     <!--menu--><div id="container" style="border:px solid black; background:url(images/background.gif) repeat-x bottom; margin-top:70px; padding:0px; width:0px auto; height:50px">
+     <!--menu--><div id="container" style="border:px solid black; background:url(images/background.gif) repeat-x bottom; margin-top:95px; padding:0px; width:0px auto; height:50px">
 
          <?php include("includes/menu.php");?></br>
   <!--end menu--></div>
@@ -25,6 +25,7 @@
     	<?php include("includes/footer.php");?></br>
    <!--footer--><div id="footer" style="float:left; border:px solid black; background:url(images/footer.png) repeat-x bottom">
    <!--end footer--></div>
+   
       </div>  
     </div>
   	</div>
