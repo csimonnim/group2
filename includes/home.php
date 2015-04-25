@@ -22,7 +22,7 @@
 					<div>
                     <form action="http://www.ecomer.com/search.php" role="form" method="get">
                     <input type="hidden" name="location" value="" />
-                  <input type="txtsearch" type="text" name="txtSearch" value="" placeholder="i'm find all..." id="search_box" class="form_control" style="float:leftl; margin-left:0px; width:575px; height:30px; border-radius:5px; border:2px solid #C30; margin-top:7px; font-style:italic;">
+                  <input type="txtsearch" type="text" name="txtSearch" value="" placeholder="i'm find all..." id="search_box" class="form_control" style="float:leftl; margin-left:0px; width:525px; height:30px; border-radius:5px; border:2px solid #C30; margin-top:7px; font-style:italic;">
             <span class="select"/>
             <select name="category" id="search_cate" style="width:170px; height:30px; border-radius:5px; border:2px solid #3C9; margin-left:-3px; margin-top:7px" class="form_control" />
             	<option value="0">All Categories</option>
@@ -34,6 +34,7 @@
                 <option class="sub-cat" value="health, beauty">Health, Beauty</option>
                 <option class="sub-cat" value="jewelry, watches">Jewelry, Watches</option>
              <input type="submit" name="btnSearch" value="Search" style="height:30px; width:90px; border-radius:5px; border:2px solid #60C; margin-left:1px; margin-top:7px"/>
+           
             </form>
             </div>
             </div>
@@ -68,9 +69,9 @@ echo $khyear[$spyear[0]].$khyear[$spyear[1]];
                         <span>
                         Discount 30% Free flash 8G Bag 
                         </span>
+                         </a>
                         </div>
-                        </a>
-                        
+                       
                         
                         <div id="coin-slider">
                         <a href="img01_url" target="_blank">
@@ -78,9 +79,9 @@ echo $khyear[$spyear[0]].$khyear[$spyear[1]];
                         <span>
                          Discount 30% Free flash 8G Bag 
                         </span>
+                         </a>
                         </div>
-                        </a>
-                        
+                       
                         
                         <div id="coin-slider">
                         <a href="img01_url" target="_blank">
@@ -88,17 +89,16 @@ echo $khyear[$spyear[0]].$khyear[$spyear[1]];
                         <span>
                          Discount 30% Free flash 8G Bag 
                         </span>
+                          </a>
                          </div>
-                        </a>
-                       
-                        
+                      
+                                              
                         <div id="coin-slider">
                         <a href="img01_url" target="_blank">
                         <img src="images/slide4.png" />
                         <span>
                          Discount 30% Free flash 8G Bag 
                         </span>
-                        </div>
                         </a>
                         </div>
                         
@@ -108,8 +108,8 @@ echo $khyear[$spyear[0]].$khyear[$spyear[1]];
                         <span>
                          Discount 30% Free flash 8G Bag 
                         </span>
+                          </a>
                          </div>
-                        </a>
                        
                         
                         <div id="coin-slider">
@@ -118,15 +118,16 @@ echo $khyear[$spyear[0]].$khyear[$spyear[1]];
                         <span>
                          Discount 30% Free flash 8G Bag 
                         </span>
+                         </a>
                          </div>
-                        </a>
+                       
                        
                    <script type="text/javascript">
 				   $(document).ready(function() {
 					   $('#coin-slider').coinslider({width: 470, height: 350, navigation:true});
 				   });
 				   </script>
-               <!--end slide-->
+               <!--end slide--></div>
 				<!--promotion--><div style="float:right; width:80px; margin-right:70px">
                 	<img src="images/promotion1.jpg" width="150px" height="110px" style="margin-bottom:1px">
                     <img src="images/promotion2.jpg" width="150px" height="110px" style="margin-bottom:1px">

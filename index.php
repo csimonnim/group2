@@ -6,6 +6,8 @@
 <script type="text/javascript" src="coin-slider/jquery-1.4.2.min.js"></script>
 <script type="text/javascript" src="coin-slider/coin-slider.min.js"></script>
 <link rel="stylesheet" href="coin-slider/coin-slider-styles.css" type="text/css"/>
+<script src="http://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+   <script src="script.js"></script>
 </head>
 <body>
 	<!--container--><div id="container" style="border:2px solid black; background:url(images/footer.gif) repeat-x bottom">
@@ -30,5 +32,8 @@
     </div>
   	</div>
        <!--end container--></div>
+       <!--hello--><div style="float:left; border:1px solid #C00;">
+       				<span>Hello</span>
+       <!--end hello--></div>
 </body>
 </html>
