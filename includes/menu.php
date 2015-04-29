@@ -20,12 +20,12 @@
          </li>
       </ul>
    </li>
-   <li><a href='pages/destopproduct.php'><span>DESKTOP</span></a></li>
-   <li><a href='#'><span>NEW LAPTOP</span></a></li>
-    <li><a href='#'><span>NEW DESKTOP</span></a></li>
-     <li><a href='#'><span>NETWORK</span></a></li>
-   <li><a href='#'><span>NEWS PC</span></a></li>
-   <li class='last'><a href='#'><span>CONTACT US</span></a></li>
+    <li><a href='pages/destopproduct.php'><span>DESKTOP</span></a></li>
+    <li><a href='pages/newlaptop.php'><span>NEW LAPTOP</span></a></li>
+    <li><a href='pages/newdesktop.php'><span>NEW DESKTOP</span></a></li>
+    <li><a href='pages/network.php'><span>NETWORK</span></a></li>
+    <li><a href='pages/about.php'><span>ABOUT US</span></a></li>
+   <li class='last'><a href='pages/contact.php'><span>CONTACT US</span></a></li>
 </ul>
 </div>
                   

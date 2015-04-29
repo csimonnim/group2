@@ -1,6 +1,7 @@
 <html>
 <head>
-<title>E-commerceassignment</title>
+<link rel="shortcut icon" href="images/kfe.ico"/>
+<title>E-CommerceComputerOnline</title>
 <link rel="stylesheet" type="text/css" href="css/style.css"/>
 <meta http-equiv="content-type" charset="utf-8" />
 <script type="text/javascript" src="coin-slider/jquery-1.4.2.min.js"></script>
