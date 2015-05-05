@@ -2,17 +2,17 @@
 <!--marquee--><div style="height:0px">
 		<marquee direction="left" onmouseout="javascript:this.start()" onmouseout="javascript:this.stop()" scrollamount="3" style="margin-top:-30px; border:1px solid #999; height:33px">
         
-      <font color="black" size="3px">នៅក្នុងឳកាសចូលឆ្នាំថ្មីខាងមុខនេះសូមប្រសិទ្ធិពរជ័យសិរីសួស្ដី ជ័យមង្គល​ វិបុលសុខ មហាប្រសើរ ចូលកើតកើនចំរើនមានដល់សង្គមក្រុម
+      <font color="black" size="3px">នៅក្នុងឱកាសចូលឆ្នាំថ្មីខាងមុខនេះសូមប្រសិទ្ធិពរជ័យសិរីសួស្ដី ជ័យមង្គល​ វិបុលសុខ មហាប្រសើរ ចូលកើតកើនចំរើនមានដល់សង្គមក្រុម
           គ្រួសារ​ បងប្អូន​ មិត្ដភក្ដិម្រាក់ក្លើ ភូមិផងរបងជាមួយគ្នា អោយរកស៊ីមានបាន និងបានសេចក្ដីគ្រប់ពេលវេលា !
           </font>
       <font color="brown" size="3px">Happy Khmer new year I Wish You And families successful in everything and good health long life especially Happeness in your family !
          </font>
-           <font color="black" size="3px">នៅក្នុងឳកាសចូលឆ្នាំថ្មីខាងមុខនេះសូមប្រសិទ្ធិពរជ័យសិរីសួស្ដី ជ័យមង្គល​ វិបុលសុខ មហាប្រសើរ ចូលកើតកើនចំរើនមានដល់សង្គមក្រុម
+           <font color="black" size="3px">នៅក្នុងឱកាសចូលឆ្នាំថ្មីខាងមុខនេះសូមប្រសិទ្ធិពរជ័យសិរីសួស្ដី ជ័យមង្គល​ វិបុលសុខ មហាប្រសើរ ចូលកើតកើនចំរើនមានដល់សង្គមក្រុម
           គ្រួសារ​ បងប្អូន​ មិត្ដភក្ដិម្រាក់ក្លើ ភូមិផងរបងជាមួយគ្នា អោយរកស៊ីមានបាន និងបានសេចក្ដីគ្រប់ពេលវេលា !
           </font>
           <font color="brown" size="3px">Happy Khmer new year I Wish You And families successful in everything and good health long life especially Happeness in your family !
           </font>
-            <font color="green" size="3px">នៅក្នុងឳកាសចូលឆ្នាំថ្មីខាងមុខនេះសូមប្រសិទ្ធិពរជ័យសិរីសួស្ដី ជ័យមង្គល​ វិបុលសុខ មហាប្រសើរ ចូលកើតកើនចំរើនមានដល់សង្គមក្រុម
+            <font color="green" size="3px">នៅក្នុងឱកាសចូលឆ្នាំថ្មីខាងមុខនេះសូមប្រសិទ្ធិពរជ័យសិរីសួស្ដី ជ័យមង្គល​ វិបុលសុខ មហាប្រសើរ ចូលកើតកើនចំរើនមានដល់សង្គមក្រុម
           គ្រួសារ​ បងប្អូន​ មិត្ដភក្ដិម្រាក់ក្លើ ភូមិផងរបងជាមួយគ្នា អោយរកស៊ីមានបាន និងបានសេចក្ដីគ្រប់ពេលវេលា !
           </font>
          </marquee>
@@ -65,7 +65,7 @@ echo $khyear[$spyear[0]].$khyear[$spyear[1]];
 			<!--slide--><div style="float:left">
             			<div id="coin-slider">
                         <a href="img01_url" target="_blank">
-                        <img src="images/slide1.png" />
+                        <img src="images/slide1.png"/>
                         <span>
                         Discount 30% Free flash 8G Bag 
                         </span>
@@ -75,17 +75,17 @@ echo $khyear[$spyear[0]].$khyear[$spyear[1]];
                         
                         <div id="coin-slider">
                         <a href="img01_url" target="_blank">
-                        <img src="images/slide2.png" />
+                        <img src="images/slide2.png"/>
                         <span>
                          Discount 30% Free flash 8G Bag 
                         </span>
-                         </a>
+                        
                         </div>
-                       
+                        </a>
                         
                         <div id="coin-slider">
                         <a href="img01_url" target="_blank">
-                        <img src="images/slide3.png" />
+                        <img src="images/slide3.png"/>
                         <span>
                          Discount 30% Free flash 8G Bag 
                         </span>
@@ -95,7 +95,7 @@ echo $khyear[$spyear[0]].$khyear[$spyear[1]];
                                               
                         <div id="coin-slider">
                         <a href="img01_url" target="_blank">
-                        <img src="images/slide4.png" />
+                        <img src="images/slide4.png"/>
                         <span>
                          Discount 30% Free flash 8G Bag 
                         </span>
@@ -104,7 +104,7 @@ echo $khyear[$spyear[0]].$khyear[$spyear[1]];
                         
                         <div id="coin-slider">
                         <a href="img01_url" target="_blank">
-                        <img src="images/slide5.png" />
+                        <img src="images/slide5.png"/>
                         <span>
                          Discount 30% Free flash 8G Bag 
                         </span>
@@ -114,7 +114,7 @@ echo $khyear[$spyear[0]].$khyear[$spyear[1]];
                         
                         <div id="coin-slider">
                         <a href="img01_url" target="_blank">
-                        <img src="images/slide6.png" />
+                        <img src="images/slide6.png"/>
                         <span>
                          Discount 30% Free flash 8G Bag 
                         </span>
@@ -124,7 +124,7 @@ echo $khyear[$spyear[0]].$khyear[$spyear[1]];
                        
                    <script type="text/javascript">
 				   $(document).ready(function() {
-					   $('#coin-slider').coinslider({width: 470, height: 350, navigation:true});
+					   $('#coin-slider').coinslider({width: 470, height: 350, navigation: true});
 				   });
 				   </script>
                <!--end slide--></div>

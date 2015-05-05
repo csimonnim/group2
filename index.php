@@ -34,7 +34,7 @@
   	</div>
        <!--end container--></div>
        <!--hello--><div style="float:left; border:1px solid #C00;">
-       				<span>Hello</span>
+       		
        <!--end hello--></div>
 </body>
 </html>
